@@ -1,6 +1,6 @@
-# R_Programming
+# R Programming
 ### Instructor: Sana Rasheed
 
-R_Programming Course Exercises for Al-Nafi Students.
+R Programming course offered by Al-Nafi.
 
-Following Repository contains practise exercises for students in .ipynb and .Rmd formats.
+This repository contains practise exercises for students in .ipynb and .Rmd formats.
